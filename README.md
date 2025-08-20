@@ -72,3 +72,14 @@ By training the model on a dataset (in practice, collected from Kaggle), we can 
    ```bash
    python house_price_prediction.py
 
+---
+
+## 📊 Example Outputs
+
+1)Actual vs Predicted Scatter Plot → Shows how close predictions are to real values.
+
+2)Residual Distribution Plot → Residuals are normally distributed around 0, validating regression assumptions.
+
+---
+
+👨‍💻 Developed during my internship at CODEXINTERN
